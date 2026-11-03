@@ -1,0 +1,4 @@
+# Dependencias (NUNCA se suben, son muy pesadas)
+node_modules/
+jspm_packages/
+web_modules/
